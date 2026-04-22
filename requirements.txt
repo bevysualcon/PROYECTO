@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+kagglehub
+notebook
+seaborn
+matplotlib
